@@ -24,7 +24,7 @@ To build and run the project:
    ```
 3. **Run the main class:**
    ```bash
-   java GUI // Replace GUI with the name of your main class
+   java GUI 
    ```
 
 #### Usage
